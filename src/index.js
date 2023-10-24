@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./antd-design/layout";
+import App from "./antd-design/menu";
 import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.render(
